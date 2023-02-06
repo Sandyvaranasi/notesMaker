@@ -7,3 +7,5 @@ Used simple HTML an CSS for UI
 
 Logic using Js higherOrder functions and event listeners .
 sequential programming made it easy to understand.
+
+Start on vs code live server at bottom left corner by clicking on "GO live" and enjoy.
